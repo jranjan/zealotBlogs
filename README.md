@@ -16,3 +16,4 @@ it in any form.
 2. [Realization of DevOps is equivalent to 'Speaking truth'​](https://www.linkedin.com/pulse/realization-devops-equivalent-speaking-truth-jyoti-ranjan/)
 3. [Empowering Individual Tenant(s) to contribute for Green Cloud Computing](https://www.linkedin.com/pulse/empowering-individual-tenants-contribute-green-cloud-computing-jyoti/)
 4. [Objectify evaluation of storage system for Private cloud](https://www.linkedin.com/pulse/ready-objectify-storage-evaluation-private-cloud-jyoti-ranjan/)
+5. [Microservice+DevOps is like 1+1 = 11.](https://www.linkedin.com/pulse/microservicedevops-like-11-jyoti-ranjan/)
